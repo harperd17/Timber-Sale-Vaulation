@@ -9,7 +9,7 @@ Bureau wide BLM timber sale data was obtained from __[blm.gov](https://www.blm.g
 ## Repository Navigation
 ---
 <pre>
-Code               : <a href=https://github.com/harperd17/Timber-Sale-Valuation/tree/master/Notebooks/'Modelling Code.ipynb'>Model Building Notebook </a>
+Code               : <a href=https://github.com/harperd17/Timber-Sale-Valuation/tree/master/Notebooks/Modelling_Code.ipynb>Model Building Notebook </a>
 Report             : <a href=https://github.com/harperd17/Timber-Sale-Valuation/tree/master/Report/'Report Notebook.ipynb'>Report Notebook</a>
 </pre>
 ## Project Information
