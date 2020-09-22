@@ -17,4 +17,4 @@ Report             : <a href=https://github.com/harperd17/Timber-Sale-Vaulation/
 <b>Author: </b>David Harper <br>
 <b>Language: </b>Python <br>
 <b>Tools/IDE: </b>Anaconda <br>
-<b>Libraries: </b>numpy, pandas, plotly, matplotlib, math, sklearn, statsmodels
+<b>Libraries: </b>numpy, pandas, plotly, matplotlib, math, sklearn, statsmodels, seaborn
